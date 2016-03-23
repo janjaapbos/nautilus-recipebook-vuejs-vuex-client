@@ -9,8 +9,8 @@
 npm install
 
 # serve with hot reload at localhost:8080
-## Start
-GRAPHQL should refer to the GraphQL endpoint service to be used.
+# GRAPHQL should refer to the GraphQL endpoint service to be used.
+# Start
 GRAPHQL="http://localhost:5000" npm run dev
 
 # build for production with minification
